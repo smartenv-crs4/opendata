@@ -1,0 +1,3 @@
+[submodule "tourplanner2"]
+	path = tourplanner2
+	url = git@gitlab.com:cp2020/tourplanner2.git
