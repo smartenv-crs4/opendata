@@ -1,3 +1,6 @@
 [submodule "tourplanner2"]
 	path = tourplanner2
 	url = git@gitlab.com:cp2020/tourplanner2.git
+[submodule "webui6.3"]
+	path = webui6.3
+	url = https://gitlab.com/cp2020/webui6.3.git
