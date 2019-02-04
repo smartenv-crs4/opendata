@@ -1,6 +1,3 @@
-[submodule "tourplanner2"]
-	path = tourplanner2
-	url = ../tourplanner2.git
 [submodule "webui6.3"]
 	path = webui6.3
 	url = ../webui6.3.git
